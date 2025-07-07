@@ -10,3 +10,21 @@
   text-align: center;
 
 }
+.circle{
+    width: 200px;
+  height: 200px;
+  border: 1px solid black;
+ border-radius: 100%;
+}
+nav li a{
+  text-decoration: none;
+}
+nav li{
+  list-style: none;
+  display: inline;
+
+margin-right: 45px;
+}
+nav li :hover{
+  color: rgb(255, 21, 138);
+}
